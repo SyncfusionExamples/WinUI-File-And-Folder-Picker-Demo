@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "WinUI-FileExplorer-App (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "WinUI-FileExplorer-App (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
